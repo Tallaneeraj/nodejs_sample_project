@@ -16,6 +16,6 @@ app.post("/",function(req,res){
     res.send("thanks !" + sol);
 })
 
-app.listen(3000, function(){
+/*app.listen(3000, function(){
     console.log("server running @ 3000");
-})
+})*/
